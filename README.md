@@ -1,19 +1,20 @@
 # magento2-base
-Magento 2.2.4 base from official site... Full Release with Sample Data
+Magento 2.2.4 base from [official site](https://magento.com/tech-resources/download)... Full Release with Sample Data
 
 
 ## Installing WAMP Server
-**Step 1:** Click here to download your preferred edition of WAMP Server
+**Step 1:** Click **[here](http://www.wampserver.com/en/download-wampserver-64bits/)** to download your preferred edition of WAMP Server
+
 **Step 2:** Install WAMP (usually in C:\)
 
-## Clone repo in wamp/www folder
+## Clone this repository in `wamp/www` folder
 ```
 git clone git@github.com:JoshLabs/magento2-base.git
 cd magento2-base
 ```
 
 ## Magento Installation
-**Step 1:** In your browser, navigate to `localhost/magento2-base`
+**Step 1:** In your browser, navigate to **`localhost/magento2-base`**
 
 **Step 2:** In the first pop-up, click on **Agree and Setup Magento** and choose **Start Readiness Check** to have your WAMP environment checked. Assume the checking process goes smoothly as expected, click on **Next** button to move on.
 
@@ -27,6 +28,7 @@ Get back to the other tab when you get the below message and click **Next**
 
 
 **Step 4:** In **Web Configuration**, make your preferred changes and click **Next**
+
 ** ***Note:** __In the **Magento Admin Address** box, you can put just **Admin** in order to have better security and easily remember.__
 
 **Step 5:** In **Customize Your Store**, you can make changes such as Time Zone, Currency, Language and other Advanced Configurations. Click **Next** when you are done.
