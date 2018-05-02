@@ -7,7 +7,7 @@ Magento 2.2.4 base from [official site](https://magento.com/tech-resources/downl
 
 **Step 2:** Install WAMP (usually in C:\)
 
-## Clone this repository in `wamp/www` folder
+## Clone this repository in _wamp/www_ folder
 ```
 git clone git@github.com:JoshLabs/magento2-base.git
 cd magento2-base
@@ -20,16 +20,16 @@ cd magento2-base
 
 **Step 3:** To setup your database:
 
-Open a new tab and navigate to **__`http://localhost/phpmyadmin/`__** using credentials `root with no password` and click **New**
-Name the database `Magento` and click **Create**
+Open a new tab and navigate to **_`http://localhost/phpmyadmin/`_** using credentials `root with no password` and click **New**
+Name the database **`Magento`** and click **Create**
 Get back to the other tab when you get the below message and click **Next**
 
-> Database `Magento` has been created.
+> Database **`Magento`** has been created.
 
 
 **Step 4:** In **Web Configuration**, make your preferred changes and click **Next**
 
-** ***Note:** __In the **Magento Admin Address** box, you can put just **Admin** in order to have better security and easily remember.__
+*****Note:**  _In the **Magento Admin Address** box, you can put just **Admin** in order to have better security and easily remember._
 
 **Step 5:** In **Customize Your Store**, you can make changes such as Time Zone, Currency, Language and other Advanced Configurations. Click **Next** when you are done.
 
