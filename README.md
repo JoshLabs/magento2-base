@@ -13,11 +13,15 @@ git clone git@github.com:JoshLabs/magento2-base.git
 cd magento2-base
 ```
 
+
 ## Installing composer and run composer install 
-Click [here](https://getcomposer.org/download/) to download composer
-```
-composer install
-```
+1. Click [here](https://getcomposer.org/download/) to download composer
+1. Create Access Keys [here](https://marketplace.magento.com/customer/accessKeys/) to use in Composer.
+1. Run Composer
+    ```
+    composer install
+    ```
+1. Input Access Keys when prompted.
 
 ## Magento Installation
 **Step 1:** In your browser, navigate to **`localhost/magento2-base`**
