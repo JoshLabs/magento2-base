@@ -23,6 +23,8 @@ cd magento2-base
     ```
 1. Input Access Keys when prompted.
 
+**Note:** You may need to change permissions of the files as per your needs.
+
 ## Magento Installation
 **Step 1:** In your browser, navigate to **`localhost/magento2-base`**
 
